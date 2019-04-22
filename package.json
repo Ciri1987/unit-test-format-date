@@ -1,0 +1,17 @@
+{
+  "name": "format-date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "test:watch": "mocha -w index.test.js"
+  },
+  "keywords": [],
+  "author": "Anna Strzała",
+  "license": "ISC",
+  "devDependencies": {
+    "onchange": "^5.2.0",
+    "mocha": "^6.1.4"
+  }
+}
